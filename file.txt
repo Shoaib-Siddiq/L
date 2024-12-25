@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Initial content from remote
+=======
+Local content added
+>>>>>>> abbc92c (local)
